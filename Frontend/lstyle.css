@@ -1,0 +1,84 @@
+html{
+    height:100%
+}
+body {
+    font-family: sans-serif;
+    background: linear-gradient(rgb(254, 254, 254),rgb(242, 123, 249));
+  }
+
+  .maincontainer{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #intro{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+  
+  .container {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background: linear-gradient(rgb(238, 137, 245),rgba(255, 255, 255, 0.995));
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    width:20%;
+    height:40%;
+  }
+  
+  #mainh1{
+    text-align: center;
+    margin-bottom: 0;
+        
+  }
+
+  #signuplink{
+    text-align: center;
+  }
+
+
+  #notmainh1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+  }
+  
+  button {  
+    margin:  0 36% 0;   
+    background-color: #ef70e4; 
+    color: white;
+    padding: 10px ;
+    
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 30%;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #6c3eeb;
+  }
+  

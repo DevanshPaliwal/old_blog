@@ -3,7 +3,7 @@ html{
 }
 body {
     font-family: sans-serif;
-    background: linear-gradient(rgb(254, 254, 254),rgb(74, 176, 164));
+    background: linear-gradient(rgb(254, 254, 254),rgb(25, 138, 238));
   }
 
   #intro{
@@ -23,7 +23,7 @@ body {
   .container {
     margin-top: 5%;
     margin-bottom: 5%;
-    background: linear-gradient(rgb(69, 183, 177),rgba(255, 255, 255, 0.995));
+    background: linear-gradient(rgb(48, 130, 238),rgba(255, 255, 255, 0.995));
     padding: 40px;
     border-radius: 20px;
     box-shadow: 0 0 10px rgb(0, 0, 0);
@@ -67,7 +67,7 @@ body {
   
   button {  
     margin:  0 36% 0;   
-    background-color: #1ac5c5; 
+    background-color: #2731e0; 
     color: white;
     padding: 10px ;
     
@@ -79,6 +79,7 @@ body {
   }
   
   button:hover {
-    background-color: #0e70ef;
+    background-color: #39c9f1;
   }
+  
   
